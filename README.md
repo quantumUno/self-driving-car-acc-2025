@@ -2,16 +2,32 @@
 
   Welcome to our team's submission for the Quanser Self-Driving Car Student Competition at the American Control Conference (ACC) 2025. This repository contains our implementation of a self-driving algorithm for the QCar 2 digital twin, developed using Quanser Interactive Labs (QLabs). Our submission addresses the core principles of self-driving, including data collection, interpretation, control systems, and localization/path planning, as outlined in the competition handbook.
 
-  ## Team Overview
-  **Team Name**: Quantum Uno  
-  **Institution**: Obafemi Awolowo University  
-  **Members**: **Project Lead**: Oversees progress and ensures deadlines are met: Uthman and Bolu <br/>
-               <p class="tab-indent">**Software Developer**: Implements ROS 2 and Python algorithms: Jonnie, Paragon and Bolu</p>
-               **Perception Engineer**: Works on sensor data processing and object detection: Feranmi and Timi<br/>
-               **Control Systems Engineer**: Develops path planning and vehicle control logic: Olaoti, Iseoluwa and Uthman<br/>
-               **Documentation & Presentation Lead**: Handles GitHub repo and video submission: Seun and Tijani Uthman<br/>
+## Team Overview
 
-  **Supervisor**: Dr. Ilori Olusoji
+**Team Name**: Quantum Uno  
+**Institution**: Obafemi Awolowo University  
+
+**Members**:  
+- **Project Lead**: Oversees progress and ensures deadlines are met  
+  &emsp;• Uthman  
+  &emsp;• Bolu  
+- **Software Developer**: Implements ROS 2 and Python algorithms  
+  &emsp;• Jonnie  
+  &emsp;• Paragon  
+  &emsp;• Bolu  
+- **Perception Engineer**: Works on sensor data processing and object detection  
+  &emsp;• Feranmi  
+  &emsp;• Timi  
+- **Control Systems Engineer**: Develops path planning and vehicle control logic  
+  &emsp;• Olaoti  
+  &emsp;• Iseoluwa  
+  &emsp;• Uthman  
+- **Documentation & Presentation Lead**: Handles GitHub repo and video submission  
+  &emsp;• Seun  
+  &emsp;• Tijani Uthman  
+
+**Supervisor**: Dr. Ilori Olusoji
+
 
   ## Self-Driving Car Studio Setup
   The Self-Driving Car Studio in Quanser Interactive Labs (QLabs) is configured to simulate the QCar 2 digital twin in the Detailed Scenario, including maps, peripherals, and traffic lights:

@@ -6,10 +6,10 @@
   **Team Name**: Quantum Uno  
   **Institution**: Obafemi Awolowo University  
   **Members**: **Project Lead**: Oversees progress and ensures deadlines are met: Uthman and Bolu <br/>
-               **Software Developer**: Implements ROS 2 and Python algorithms: Jonnie, Paragon and Bolu
-               **Perception Engineer**: Works on sensor data processing and object detection: Feranmi and Timi
-               **Control Systems Engineer**: Develops path planning and vehicle control logic: Olaoti, Iseoluwa and Uthman
-               **Documentation & Presentation Lead**: Handles GitHub repo and video submission: Seun and Tijani Uthman
+               <p style="padding-left: 2em;">**Software Developer**: Implements ROS 2 and Python algorithms: Jonnie, Paragon and Bolu</p><br/>
+               **Perception Engineer**: Works on sensor data processing and object detection: Feranmi and Timi<br/>
+               **Control Systems Engineer**: Develops path planning and vehicle control logic: Olaoti, Iseoluwa and Uthman<br/>
+               **Documentation & Presentation Lead**: Handles GitHub repo and video submission: Seun and Tijani Uthman<br/>
 
   **Supervisor**: Dr. Ilori Olusoji
 

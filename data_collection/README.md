@@ -1,3 +1,4 @@
+  # Data Collection
  This section outlines our approach to collecting sensor data from the QCar 2 digital twin in Quanser Interactive Labs (QLabs).
 
   ## Why This Matters

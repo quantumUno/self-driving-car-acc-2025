@@ -26,13 +26,13 @@
   &emsp;• Seun  
   &emsp;• Tijani Uthman  
 
-**Supervisor**: Dr. Ilori Olusoji
+**Supervisor**: Dr. Olusoji Ilori
 
 
   ## Self-Driving Car Studio Setup
   The Self-Driving Car Studio in Quanser Interactive Labs (QLabs) is configured to simulate the QCar 2 digital twin in the Detailed Scenario, including maps, peripherals, and traffic lights:
   - **Maps**: Loaded the Detailed Scenario’s road network with lanes, intersections, and obstacles.
-  - **Peripherals**: Configured QCar 2 sensors (camera, LiDAR, IMU, encoders) to publish data via ROS 2 topics.
+  - **Peripherals**: Configured QCar 2 sensors (camera, LiDAR, IMU, encoders) to publish data via ROS 2 nodes.
   - **Traffic Lights**: Detected using camera-based image processing (OpenCV) to enforce traffic rules (e.g., stop at red).
   See the respective sections for implementation details.
 

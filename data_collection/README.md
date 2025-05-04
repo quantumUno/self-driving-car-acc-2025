@@ -7,7 +7,7 @@
   ## Setup in Self-Driving Car Studio
   - Peripherals: Configured camera (RGB, 30 fps), LiDAR (point clouds), IMU (acceleration, angular velocity), and encoders (wheel speed).
   - Map: Used Detailed Scenario’s road network.
-  - Verification: Subscribed to ROS 2 topics (e.g., `/qcar/rgb_camera`).
+  - Verification: Subscribed to ROS 2 nodes(e.g., `/qcar/rgb_camera`).
 
   ## Prerequisites
   - ROS 2 Humble, Python 3.8+, NumPy, OpenCV.

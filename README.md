@@ -36,8 +36,8 @@
   - **Traffic Lights**: Detected using camera-based image processing (OpenCV) to enforce traffic rules (e.g., stop at red).
   See the respective sections for implementation details.
 
-  ## Repository Structure
-  - **data_collection/**: Sensor data collection scripts and examples.
+  ## Code Structure
+  - **data_collection/**: Sensor data collection algorithms.
   - **interpretation/**: Data processing for lane and traffic light detection.
   - **control_systems/**: Steering and throttle control algorithms.
   - **localization_path_planning/**: Localization and path planning strategies.
